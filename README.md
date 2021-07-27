@@ -5,4 +5,4 @@ And Unfortunately too, in any reason the developer of the Program dont loves kri
 
 I would wish that we send a request to https://godownloader.com . The site became me suggestion of a nice people. The best on the website is, that you can download videos in even better qualitiy than tiktok-scraper and fucking without watermark.
 
-I dont use the Repository to steal his work and his idea. I only have this if the Owner delete it. Please if the owner have the repository still than go to his site: https://github.com/drawrowfly/instagram-scraper
+I dont use the Repository to steal his work and his idea. I only have this if the Owner delete it. Please if the owner have the repository still then go to his site: https://github.com/drawrowfly/instagram-scraper
