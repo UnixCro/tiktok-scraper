@@ -1,2 +1,2 @@
 # tiktok-scraper
-Backup
+Backup, if the owner delete it.
